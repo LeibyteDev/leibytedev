@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/ca258b5b-e4b0-40ef-85ad-c221c8a75ef9" alt="Leibyte's Rec Room avatar" width="100">
+
 ## 👋 Hello, I am Leibyte!
 
 I am a technology/IT enthusiast, an experienced Roblox developer and a beginner Polytoria developer.
