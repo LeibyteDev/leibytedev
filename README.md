@@ -2,7 +2,7 @@
 
 ## 👋 Hello, I am Leibyte!
 
-I am a technology/IT enthusiast, an experienced Roblox developer and a beginner Polytoria developer.
+I am a technology/IT enthusiast, an experienced former Roblox developer and a beginner Polytoria developer.
 
 With 9 years of development experience, I mainly specialise in building and I have a small amount of experience in scripting in Luau.
 
