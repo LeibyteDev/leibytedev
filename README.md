@@ -13,4 +13,4 @@ With 9 years of development experience, I mainly specialise in building and I ha
 [Website](https://sites.google.com/view/leibyte)<br>
 [Discord Profile](https://discord.com/users/486958791137689601)<br>
 [Polytoria Profile](https://polytoria.com/u/Leibyte)<br>
-<i>[Roblox Profile](https://roblox.com/users/233133939/profile) ● [DevForum Profile](https://devforum.roblox.com/u/leibyte) ● [Talent Hub Page](https://create.roblox.com/talent/creators/233133939)</i>
+<i>[Roblox Profile](https://roblox.com/users/233133939/profile) ● [DevForum Profile](https://devforum.roblox.com/u/leibyte) ● [Talent Hub Creator Page](https://create.roblox.com/talent/creators/233133939)</i>
