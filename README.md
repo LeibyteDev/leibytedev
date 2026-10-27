@@ -1,3 +1,4 @@
+<div align="center">
 <img src="https://github.com/user-attachments/assets/e22bc3a0-87f4-4ae4-8257-0eaf6a68aa6f" alt="Leibyte's signature wordmark" width="300">
 
 # 👋 Hello, I am Leibyte!
@@ -8,4 +9,5 @@ With 9 years of development experience, I mainly specialise in building with a s
 
 <br>
 
-> ### 🔗 [Website](https://leibytedev.github.io)
+### 🔗 [Website](https://leibytedev.github.io)
+</div>
